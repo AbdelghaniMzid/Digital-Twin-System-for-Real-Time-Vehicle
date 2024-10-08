@@ -3,6 +3,13 @@
 ## Overview
 This project is part of my **studies in Mechatronics**, focusing on the development of a **Digital Twin framework** for real-time vehicle data monitoring and fault detection. The system creates a synchronized connection between the **Digital Master**, which stores all vehicle data, and the **Digital Shadow**, which represents real-time data collected from the vehicle's sensors.
 
+## Current Status
+🚧 **Work in Progress** 🚧  
+I am actively working on this project with a focus on:
+- Building the communication between the Digital Master and Digital Shadows.
+- Developing the notification system using NLP, NLG, and NLU technologies.
+- Finalizing the backend and frontend structure for real-time monitoring.
+
 ### Project Objectives:
 - **Real-time Data Monitoring**: Collect and monitor data from various vehicle sensors, including engine temperature, tire pressure, and speed.
 - **Fault Detection and Notification**: Detect faulty sensors, missing data, or abnormal conditions, and automatically generate intelligent notifications using NLP, NLG, and NLU technologies.
@@ -16,14 +23,6 @@ This project is part of my **studies in Mechatronics**, focusing on the developm
 - **NLP/NLG/NLU for Notifications**: Using advanced Natural Language Processing (NLP), Natural Language Generation (NLG), and Natural Language Understanding (NLU) to create user-friendly and meaningful alerts.
 - **Database Integration**: Data from sensors is structured in a database, making it easy to query and analyze for faults or anomalies.
 
-## Current Status
-🚧 **Work in Progress** 🚧  
-The project is still under development with a focus on:
-- Building the communication between the Digital Master and Digital Shadows.
-- Developing the notification system using NLP, NLG, and NLU technologies.
-- Finalizing the backend and frontend structure for real-time monitoring.
-
----
 
 ### 🔧 Technologies and Tools Used
 
