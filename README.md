@@ -32,7 +32,7 @@ I am actively working on this project with a focus on:
 - ![Python](https://img.shields.io/badge/Python-v3.10-yellow?style=flat-square) – Python for machine learning algorithms and data analysis.
 - ![NLP/NLG](https://img.shields.io/badge/NLP/NLG-Natural_Language_Tech-purple?style=flat-square) – NLP, NLG, and NLU for generating intelligent notifications.
 - ![LIDAR](https://img.shields.io/badge/LIDAR-SensorData-lightgrey?style=flat-square) – Real-time data collected from vehicle sensors like LIDAR, speed, and temperature sensors.
-- ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=flat-square) – GitHub for version control and code collaboration.
+- ![AI/ML Algorithms](https://img.shields.io/badge/AI/ML-Algorithms-lightgrey?style=flat-square) – AI and machine learning algorithms are applied for pattern recognition and fault detection in the vehicle sensor data.
 
 ---
 
